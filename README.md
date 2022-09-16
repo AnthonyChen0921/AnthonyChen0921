@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div>
-
-###
-
 <p align="left">🏛 ⛪️ 🕌 🕍 🛕 🕋 ⛩ 🛤 🛣 🗾 🎑 🏞 🌅 🌄 🌠 🎇 🎆 🌇 🌆 🏙 🌃 🌌 🌉 🌁🏠 🏡 🏘 🏗 🏭 🏢 🏬 🏤 🏥 🏦 🏨 🏪 🏫</p>
 
 ###
@@ -57,6 +51,12 @@
 
 
 ![snake gif](https://github.com/AnthonyChen0921/.github-workflows/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</div>
+
+###
 
 ###
 
