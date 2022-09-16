@@ -12,12 +12,6 @@
 
 <p align="left">🏛 ⛪️ 🕌 🕍 🛕 🕋 ⛩ 🛤 🛣 🗾 🎑 🏞 🌅 🌄 🌠 🎇 🎆 🌇 🌆 🏙 🌃 🌌 🌉 🌁🏠 🏡 🏘 🏗 🏭 🏢 🏬 🏤 🏥 🏦 🏨 🏪 🏫</p>
 
-<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-<a href="https://github.com/angular/angular-ja/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
-</a>
-
-
 ###
 
 <div align="left">
@@ -89,5 +83,6 @@
 
 ###
 
-
+<br clear="both">
+<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 ###
