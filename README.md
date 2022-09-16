@@ -47,8 +47,6 @@
 
 ###
 
-//<br clear="both">
-
 
 ![snake gif](https://github.com/AnthonyChen0921/.github-workflows/blob/output/github-contribution-grid-snake.svg)
 
