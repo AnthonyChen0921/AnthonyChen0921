@@ -12,8 +12,6 @@
 
 <p align="left">🏛 ⛪️ 🕌 🕍 🛕 🕋 ⛩ 🛤 🛣 🗾 🎑 🏞 🌅 🌄 🌠 🎇 🎆 🌇 🌆 🏙 🌃 🌌 🌉 🌁🏠 🏡 🏘 🏗 🏭 🏢 🏬 🏤 🏥 🏦 🏨 🏪 🏫</p>
 
-<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-
 ###
 
 <div align="left">
@@ -84,3 +82,5 @@
 <img align="left" height="210" src="https://c.tenor.com/mHVss1wE2zYAAAAC/ropz-shooting.gif"  />
 
 ###
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
