@@ -12,6 +12,9 @@
 
 <p align="left">🏛 ⛪️ 🕌 🕍 🛕 🕋 ⛩ 🛤 🛣 🗾 🎑 🏞 🌅 🌄 🌠 🎇 🎆 🌇 🌆 🏙 🌃 🌌 🌉 🌁🏠 🏡 🏘 🏗 🏭 🏢 🏬 🏤 🏥 🏦 🏨 🏪 🏫</p>
 
+<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
+
 ###
 
 <div align="left">
@@ -83,6 +86,5 @@
 
 ###
 
-<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 ###
