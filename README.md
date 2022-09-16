@@ -49,7 +49,8 @@
 
 <br clear="both">
 
-<img href="https://github.com/AnthonyChen0921/.github-workflows/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/AnthonyChen0921/.github-workflows/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
