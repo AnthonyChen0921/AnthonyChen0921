@@ -13,7 +13,7 @@
 <p align="left">🏛 ⛪️ 🕌 🕍 🛕 🕋 ⛩ 🛤 🛣 🗾 🎑 🏞 🌅 🌄 🌠 🎇 🎆 🌇 🌆 🏙 🌃 🌌 🌉 🌁🏠 🏡 🏘 🏗 🏭 🏢 🏬 🏤 🏥 🏦 🏨 🏪 🏫</p>
 
 <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=AnthonyChen0921)
 
 
 ###
