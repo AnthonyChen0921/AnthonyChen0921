@@ -86,6 +86,8 @@
 <br clear="both">
 
 ###
+<div align="center">
+  <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</div>
 
-<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-###
+
