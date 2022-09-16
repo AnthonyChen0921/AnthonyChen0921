@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/AnthonyChen0921/AnthonyChen0921/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -78,10 +78,6 @@
 
 ###
 
-<img align="right" height="180" src="https://c.tenor.com/mHVss1wE2zYAAAAC/ropz-shooting.gif"  />
-
-###
-
-<img align="left" height="180" src="https://scitechdaily.com/images/3D-Printer.gif"  />
+<img align="left" height="180" src="https://c.tenor.com/mHVss1wE2zYAAAAC/ropz-shooting.gif"  />
 
 ###
