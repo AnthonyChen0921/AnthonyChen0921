@@ -13,7 +13,9 @@
 <p align="left">🏛 ⛪️ 🕌 🕍 🛕 🕋 ⛩ 🛤 🛣 🗾 🎑 🏞 🌅 🌄 🌠 🎇 🎆 🌇 🌆 🏙 🌃 🌌 🌉 🌁🏠 🏡 🏘 🏗 🏭 🏢 🏬 🏤 🏥 🏦 🏨 🏪 🏫</p>
 
 <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-![Profile View Counter](https://komarev.com/ghpvc/?username=AnthonyChen0921)
+<a href="https://github.com/angular/angular-ja/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
+</a>
 
 
 ###
