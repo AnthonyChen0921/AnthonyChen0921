@@ -50,6 +50,24 @@
 
 ![snake gif](https://github.com/AnthonyChen0921/.github-workflows/blob/output/github-contribution-grid-snake.svg)
 
+
+
+###
+
+<div align="center">
+  <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</div>
+
+###
+
+<img align="right" height="210" src="https://i.pinimg.com/originals/d3/4a/5e/d34a5e2d13b36592927dbc24cf4330f6.gif"  />
+
+###
+
+<img align="left" height="210" src="https://c.tenor.com/mHVss1wE2zYAAAAC/ropz-shooting.gif"  />
+
+###
+
 ###
 
 <div align="center">
@@ -70,23 +88,5 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div>
-
-###
-
-<img align="right" height="210" src="https://i.pinimg.com/originals/d3/4a/5e/d34a5e2d13b36592927dbc24cf4330f6.gif"  />
-
-###
-
-<img align="left" height="210" src="https://c.tenor.com/mHVss1wE2zYAAAAC/ropz-shooting.gif"  />
-
-###
-
-
 
 
