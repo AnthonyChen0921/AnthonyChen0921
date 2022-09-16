@@ -72,17 +72,15 @@
 
 ###
 
-<img align="right" height="200" src="https://c.tenor.com/mHVss1wE2zYAAAAC/ropz-shooting.gif"  />
+<img align="right" height="180" src="https://i.pinimg.com/originals/d3/4a/5e/d34a5e2d13b36592927dbc24cf4330f6.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://scitechdaily.com/images/3D-Printer.gif"  />
+<img align="right" height="180" src="https://c.tenor.com/mHVss1wE2zYAAAAC/ropz-shooting.gif"  />
 
 ###
 
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/originals/d3/4a/5e/d34a5e2d13b36592927dbc24cf4330f6.gif"  />
-</div>
+<img align="left" height="180" src="https://scitechdaily.com/images/3D-Printer.gif"  />
 
 ###
 Profile Readme Generator
