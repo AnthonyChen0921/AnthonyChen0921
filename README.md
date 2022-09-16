@@ -52,12 +52,6 @@
 
 ![snake gif](https://github.com/AnthonyChen0921/.github-workflows/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div>
-
-###
-
 ###
 
 <div align="center">
@@ -77,6 +71,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 </div>
 
 ###
