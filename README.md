@@ -10,9 +10,9 @@
 
 ###
 
-![Jokes Card](https://readme-jokes.vercel.app/api) ![Jokes Card](https://readme-jokes.vercel.app/api) ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <p align="left">🏛 ⛪️ 🕌 🕍 🛕 🕋 ⛩ 🛤 🛣 🗾 🎑 🏞 🌅 🌄 🌠 🎇 🎆 🌇 🌆 🏙 🌃 🌌 🌉 🌁🏠 🏡 🏘 🏗 🏭 🏢 🏬 🏤 🏥 🏦 🏨 🏪 🏫</p>
+
+<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 ###
 
