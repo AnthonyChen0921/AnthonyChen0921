@@ -2,11 +2,10 @@
 
 ###
 
-<h4 align="center">An Engineer codes for problem-solving⌛️, product-making🕹, and app development📱.</h4>
 
 ###
 
-<p align="center">Anthony Chen <br>@Computer Science @WashU<br>Devote myself to making cool stuff. <br>Software Dev, Web Dev, FullStack, IOS Dev, 3D Printing</p>
+<p align="center">Erdong Chen <br>@Computer Science @WashU<br></p>
 
 ###
 
